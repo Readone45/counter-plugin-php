@@ -8,7 +8,7 @@
 
 <h4>Tambahkan script berikut di button / link </h4>
 
-onclick="count_button_r45()"<br>
+```onclick="count_button_r45()"```
 
 <h4>sehingga menjadi seperti berikut</h4>
 
