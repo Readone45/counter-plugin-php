@@ -16,6 +16,4 @@ onclick="count_button_r45()"<br>
 
 <h4>Tambahkan script berikut diatas tag &lt;/body&gt; </h4>
 
-<xmp>
-<script type="text/javascript" src="counter/counter.js"></script>
-</xmp>
+```<script type="text/javascript" src="counter/counter.js"></script>```
