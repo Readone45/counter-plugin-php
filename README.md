@@ -11,7 +11,8 @@
 onclick="count_button_r45()"<br>
 
 <h3>sehingga menjadi seperti berikut</h3>
-> <a target="_blank" href="http://wa.me/6212345678" onclick="count_button_r45()">Sample click to Whatsapp</a>
+
+```<a target="_blank" href="http://wa.me/6212345678" onclick="count_button_r45()">Sample click to Whatsapp</a>```
 
 <h4>Tambahkan script berikut diatas tag &lt;/body&gt; </h4>
 
