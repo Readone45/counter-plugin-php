@@ -11,10 +11,12 @@
 onclick="count_button_r45()"<br>
 
 <h3>sehingga menjadi seperti berikut</h3>
-
+<xmp>
 <a target="_blank" href="http://wa.me/6212345678" onclick="count_button_r45()">Sample click to Whatsapp</a>
-
+</xmp>
 
 <h4>Tambahkan script berikut diatas tag &lt;/body&gt; </h4>
 
+<xmp>
 <script type="text/javascript" src="counter/counter.js"></script>
+</xmp>
